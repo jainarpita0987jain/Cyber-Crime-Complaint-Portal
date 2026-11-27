@@ -1,0 +1,2 @@
+msg_id,complaint_id,sender_role,sender_name,receiver_role,officer,citizen_email,kind,message,created_at,is_read
+M00001,CC20260001,officer,gen_officer,admin,gen_officer,,FAKE,Reported as fake complaint,2026-11-07 11:51:58,True

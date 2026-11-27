@@ -1,0 +1,5 @@
+user_id,name,email,password,role,active,created_at,username,phone,dob,gender,specialization,special_request,failed_attempts,locked_until
+U0001,general_officer,general@police.in,1234,officer,True,2026-10-23 22:31:47,gen_officer,9876500001,1990-04-12,MALE,GENERAL,False,0,
+U0002,special_officer,special@police.in,1234,officer,True,2026-10-23 22:31:47,special_officer,9876500002,1992-08-20,FEMALE,SPECIAL,False,0,
+U0003,PavanKumar,gpk@gmail.com,1234,citizen,True,2026-11-07 08:53:58,,1234567890,2007-02-26,MALE,GENERAL,False,0,
+U0004,fake_person,fake@gmail.com,1234,citizen,True,2026-11-07 08:53:58,,1234567890,2007-02-26,MALE,GENERAL,False,0,
